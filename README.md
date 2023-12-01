@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on: <br>Machine learning projects.<br>👯 I’m looking to collaborate on: <br>Innovative AI initiatives<br>🌱 Currently learning:<br>Advanced ML and DL techniques. <br>💬 Ask me about:<br>Machine Learning, Deep Learning, Computer Vision, Python, C++, DSA.<br>⚡ Fun fact: <br>I love Playing Cricket
+# 💫 I'm Shubh:
+🔭 I’m currently working on Machine learning projects.<br><br>👯 I’m looking to collaborate on Innovative AI initiatives<br><br>🌱 Currently learning Advanced ML and DL techniques. <br><br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Python, C++, DSA.<br><br>⚡ Fun fact about me is that I love Playing Cricket
 
 
 ## 🌐 Socials:
