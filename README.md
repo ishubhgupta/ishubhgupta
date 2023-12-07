@@ -1,4 +1,4 @@
-# 💫 I'm Shubh:
+# 💫 I'm Shubh
 🔭 I’m currently working on Machine learning projects.<br><br>👯 I’m looking to collaborate on Innovative AI initiatives<br><br>🌱 Currently learning Advanced ML and DL techniques. <br><br>💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Python, C++, DSA.<br><br>⚡ Fun fact about me is that I love Playing Cricket
 
 
